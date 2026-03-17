@@ -8,7 +8,7 @@ If you have any questions, feel free to contact us:
 
 - **Carmen García Barceló**  
   🔗 [LinkedIn](https://www.linkedin.com/in/carmen-garcia-barcelo/)  
-  📧 garciabarcelocarmen@gmail.com  
+  📧 carmen.gbarcelo@ua.es  
 
 - **David Bernabeu Ferrer**  
   🔗 [LinkedIn](https://www.linkedin.com/in/david-bernabeu-data-engineer)  
